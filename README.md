@@ -1,2 +1,2 @@
-# Ejercicios-pr-cticos
+# Ejercicios-practicos
 Ejercicios de práctica y aprendizaje
