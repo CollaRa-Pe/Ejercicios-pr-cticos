@@ -1,2 +1,2 @@
-# Ejercicios-practicos
-Ejercicios de práctica y aprendizaje
+# Ejercicios-practicos de Python
+Ejercicios de práctica y aprendizaje de Python
